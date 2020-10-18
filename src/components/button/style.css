@@ -1,0 +1,22 @@
+button{
+    margin-top: 8%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #F6511D;	
+    border: none;   
+    color: white;
+    height: 40px;
+    text-align: center;
+    width: 150px;
+    
+}
+
+.botoes{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+

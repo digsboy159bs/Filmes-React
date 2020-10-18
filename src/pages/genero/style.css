@@ -1,0 +1,46 @@
+.genero{
+    margin-top: -2%;
+}
+
+.imagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.teatro{
+    width: 50px;
+    margin-top: 2%;
+}
+
+.div-genero{
+    display: flex;
+    align-items: flex-end;
+    margin-right: 300px;
+    margin-top: 5%;
+}
+
+#lista_generos ul {
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+#lista_generos ul li {
+    color: #4B2142;
+    font-size: 18px;
+    margin-left: 40px;
+    padding: 10px;
+}
+
+#lista_generos_flex {
+    margin-left: 220px;
+    margin-top: 20px;
+}
+
+#lista_generos {
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+}
+

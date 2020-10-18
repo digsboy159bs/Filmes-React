@@ -1,0 +1,41 @@
+footer {
+    background-color: #F6511D;
+    padding: 3vh;
+    color: #FFFCFC;
+    margin: auto;
+    width: 100%;
+    position: absolute;
+    margin-top: 5%;
+    
+}
+
+.footer > div:nth-child(3){
+    display: flex;
+    flex-direction: column;
+
+}
+
+.footer > div > p {
+    padding-top: 17px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding-left: 165px;
+    
+}
+
+.logonegativo {
+    padding-top: 11px;
+}
+
+.footer hr{
+    display: flex;
+    justify-content: center;
+    margin: 0 40px 0 50px;
+    height: 25vh;
+    border-left: 1px solid;
+    color: white;
+    background-color: white;
+}
